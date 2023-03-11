@@ -1,0 +1,11 @@
+*.cfg
+*.pyc
+node_modules
+local-cdn
+bin/
+lib/
+include
+[encry]*
+user.json
+[tes]*
+share/
